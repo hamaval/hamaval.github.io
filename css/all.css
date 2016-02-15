@@ -3456,7 +3456,7 @@ footer .footer_bottom {
 
 
 .entry .gist {
-  background: #000;
+  background: #fff;
   border: 1px solid color-border;
   margin-top: 15px;
   padding: 7px 15px;
@@ -3534,7 +3534,7 @@ figure.highlight .gutter {
 figure.highlight .code {
   padding-left: 8px;
   border-left: 1px solid #fff;
-  color: #707070;
+  color: #fff;
 }
 pre .comment,
 pre .template_comment,
@@ -3543,7 +3543,7 @@ pre .doctype,
 pre .pi,
 pre .lisp .string,
 pre .javadoc {
-  color: #747474;
+  color: #fff;
   font-style: italic;
 }
 pre .keyword,
