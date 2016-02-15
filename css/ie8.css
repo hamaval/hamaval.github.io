@@ -34,7 +34,7 @@ html.sb-init.sb-active.sb-active-right #projects .projects .label-text h3 a {
 }
 #featured a.meta {
 	background:transparent;
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#80000000,endColorstr=#80000000); 
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#E6FFFFFF,endColorstr=#E6FFFFFF);
 	zoom: 1;
 	position: absolute;
 	top: 0;
@@ -44,11 +44,11 @@ html.sb-init.sb-active.sb-active-right #projects .projects .label-text h3 a {
 }
 #featured a.meta:hover {
 	background:transparent;
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#B3000000,endColorstr=#B3000000); 
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#E6FFFFFF,endColorstr=#E6FFFFFF);
 	zoom: 1;
 }
 .map-cover {
 	background:transparent;
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#B3131313,endColorstr=#B3131313); 
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#E6FFFFFF,endColorstr=#E6FFFFFF);
 	zoom: 1;
 }
