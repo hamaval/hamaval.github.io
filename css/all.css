@@ -3534,7 +3534,7 @@ figure.highlight .gutter {
 figure.highlight .code {
   padding-left: 8px;
   border-left: 1px solid #fff;
-  color: #666;
+  color: #fff;
 }
 pre .comment,
 pre .template_comment,
@@ -3543,7 +3543,7 @@ pre .doctype,
 pre .pi,
 pre .lisp .string,
 pre .javadoc {
-  color: #93a1a1;
+  color: #fff;
   font-style: italic;
 }
 pre .keyword,
