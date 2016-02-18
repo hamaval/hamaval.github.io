@@ -1109,11 +1109,11 @@ span.sb-caret { /* Caret Down */
 }
 
 .titleblock p {
-	color: #333
+	color: #fdfdfd
 }
 
 .titleblock i {
-	color: #333;
+	color: #e8e8e8;
 	font-size: 40px;
 }
 
@@ -2498,12 +2498,12 @@ ul.page-nav i {
 #faq h4.panel-title {
 	font-size: 14px;
 	line-height: 34px;
-	color: #333
+	color: #b7b7b7
 }
 #faq .panel-faq .panel-heading .panel-title span {
     font-size: 13px;
     font-weight: normal;
-    color: #151515
+    color: #acacac
 }
 #faq .panel-default>.panel-heading {
 	background-color: #fff;
@@ -2961,7 +2961,7 @@ ul.filters li p:hover {
 	margin: 0 auto;
 }
 #contact .well p {
-	color: #666;
+	color: #b3b3b3;
 	font-family: 'Georgia', serif;
 	font-style: italic;
 	font-size: 14px;
